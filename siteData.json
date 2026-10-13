@@ -7,11 +7,11 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "john-doe": "John Doe",
-        "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
-        "jean-doe": "Jean Doe",
-        "james-doe": "James Doe"
+        "dillion-lim": "Dillion Lim",
+        "jiang-xinnan": "Jiang Xinnan",
+        "nguyen-phuc-thang": "Nguyen Phuc Thang",
+        "ng-see-jay": "Ng See Jay",
+        "rui-hong": "Rui Hong"
       },
       "headingKeywords": {}
     },
@@ -40,7 +40,7 @@
       "src": "DeveloperGuide.md",
       "title": "Developer Guide",
       "headings": {
-        "ab-3-developer-guide": "AB-3 Developer Guide",
+        "tab-developer-guide": "TAB Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -51,6 +51,11 @@
         "storage-component": "Storage component",
         "common-classes": "Common classes",
         "implementation": "Implementation",
+        "how-commands-read-their-arguments": "How commands read their arguments",
+        "commands-with-no-arguments": "Commands with no arguments",
+        "follow-up-flag": "Follow-up flag",
+        "field-values": "Field values",
+        "confirming-a-clear": "Confirming a clear",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-dev-ops": "Documentation, logging, testing, dev-ops",
@@ -62,7 +67,15 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
-        "deleting-a-person": "Deleting a person",
+        "rejecting-unexpected-command-arguments": "Rejecting unexpected command arguments",
+        "follow-up-status": "Follow-up status",
+        "editing-a-student": "Editing a student",
+        "clearing-a-student-s-email": "Clearing a student's email",
+        "rejecting-an-over-long-email": "Rejecting an over-long email",
+        "deleting-a-student": "Deleting a student",
+        "the-command-line": "The command line",
+        "the-summary-beside-the-list": "The summary beside the list",
+        "confirming-before-clearing-all-students": "Confirming before clearing all students",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}
@@ -107,15 +120,17 @@
       "src": "UserGuide.md",
       "title": "User Guide",
       "headings": {
-        "ab-3-user-guide": "AB-3 User Guide",
+        "tab-user-guide": "TAB User Guide",
         "quick-start": "Quick start",
         "features": "Features",
+        "typing-a-command": "Typing a command",
+        "reading-the-summary-beside-the-list": "Reading the summary beside the list",
         "viewing-help-help": "Viewing help: help",
-        "adding-a-person-add": "Adding a person: add",
-        "listing-all-persons-list": "Listing all persons: list",
-        "editing-a-person-edit": "Editing a person: edit",
-        "locating-persons-by-name-find": "Locating persons by name: find",
-        "deleting-a-person-delete": "Deleting a person: delete",
+        "adding-a-student-add": "Adding a student: add",
+        "listing-all-students-list": "Listing all students: list",
+        "editing-a-student-edit": "Editing a student: edit",
+        "locating-students-by-detail-find": "Locating students by detail: find",
+        "deleting-a-student-delete": "Deleting a student: delete",
         "clearing-all-entries-clear": "Clearing all entries: clear",
         "exiting-the-program-exit": "Exiting the program: exit",
         "saving-the-data": "Saving the data",
@@ -131,7 +146,11 @@
       "src": "index.md",
       "title": "",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "tab": "TAB",
+        "target-users": "Target Users",
+        "value-proposition": "Value Proposition",
+        "documentation": "Documentation",
+        "acknowledgements": "Acknowledgements"
       },
       "headingKeywords": {}
     },
@@ -139,7 +158,7 @@
       "src": "team/johndoe.md",
       "title": "John Doe's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "project-tab": "Project: TAB"
       },
       "headingKeywords": {}
     }
